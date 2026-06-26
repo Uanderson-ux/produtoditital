@@ -1,0 +1,14 @@
+# Googlebot and other web crawlers configuration
+User-agent: *
+
+# Bloquear o painel de administracao e arquivos de backup/teste para nao aparecerem no Google
+Disallow: /admin.html
+Disallow: /index-publico.html
+Disallow: /achadinhos/raw_page.html
+
+# Permitir a indexacao do restante do site
+Allow: /
+Allow: /achadinhos/
+
+# Indicar a localizacao do Sitemap
+Sitemap: https://produtodigital.org/sitemap.xml

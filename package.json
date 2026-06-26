@@ -1,0 +1,16 @@
+{
+  "name": "produtodigital-blog",
+  "version": "1.0.0",
+  "description": "Seção independente de Blog para o site ProdutoDigital",
+  "main": "build-blog.js",
+  "scripts": {
+    "build": "node build-blog.js"
+  },
+  "keywords": [
+    "blog",
+    "seo",
+    "static-site-generator"
+  ],
+  "author": "",
+  "license": "ISC"
+}

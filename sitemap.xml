@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Homepage principal da loja -->
+    <url>
+        <loc>https://produtodigital.org/</loc>
+        <lastmod>2026-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <!-- Página de Achadinhos Virais -->
+    <url>
+        <loc>https://produtodigital.org/achadinhos/</loc>
+        <lastmod>2026-06-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <!-- Blog Homepage -->
+    <url>
+        <loc>https://produtodigital.org/blog/</loc>
+        <lastmod>2026-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Artigo: Como Formatar o Windows 11 Sem Perder Arquivos: Guia Completo -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-formatar-windows-11-sem-perder-arquivos/</loc>
+        <lastmod>2026-06-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar um Pendrive Bootável do Windows 11: Guia Definitivo -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-pendrive-bootavel-windows-11/</loc>
+        <lastmod>2026-06-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Windows 11 LTSC Vale a Pena em 2026? Análise Completa de Performance -->
+    <url>
+        <loc>https://produtodigital.org/blog/windows-11-ltsc-vale-a-pena/</loc>
+        <lastmod>2026-06-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Instalar Drivers Após a Formatação: O Guia Completo e Seguro -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-instalar-drivers-apos-formatacao/</loc>
+        <lastmod>2026-06-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Checklist Pós-Formatação para Técnicos: Passo a Passo Profissional -->
+    <url>
+        <loc>https://produtodigital.org/blog/checklist-pos-formatacao-para-tecnicos/</loc>
+        <lastmod>2026-06-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Acelerar um Computador Lento: 7 Métodos Sem Gastar Nada -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-acelerar-um-computador-lento/</loc>
+        <lastmod>2026-06-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Remover Vírus do Computador Sem Precisar Formatar -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-remover-virus-sem-formatar/</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Os Melhores Programas que Todo Técnico de Informática Deve Ter -->
+    <url>
+        <loc>https://produtodigital.org/blog/melhores-programas-para-tecnico-de-informacao/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Instalar e Configurar o Office Após Formatar o PC -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-instalar-office-apos-formatar/</loc>
+        <lastmod>2026-06-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Corrigir o Erro de TPM 2.0 ao Instalar o Windows 11 -->
+    <url>
+        <loc>https://produtodigital.org/blog/erro-tpm-ao-instalar-windows-11/</loc>
+        <lastmod>2026-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar um HD Externo Bootável com Múltiplos Sistemas -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-hd-externo-bootavel/</loc>
+        <lastmod>2026-06-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Rufus ou Ventoy: Qual a Melhor Ferramenta para Boot USB? -->
+    <url>
+        <loc>https://produtodigital.org/blog/rufus-ou-ventoy-qual-usar/</loc>
+        <lastmod>2026-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Ativar o Windows Após a Instalação Limpa: Métodos Oficiais -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-ativar-windows-apos-instalacao/</loc>
+        <lastmod>2026-06-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Fazer um Backup Completo Antes de Formatar o PC -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-fazer-backup-antes-da-formatacao/</loc>
+        <lastmod>2026-06-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Windows 10 ou Windows 11 para PCs Antigos: Qual Escolher? -->
+    <url>
+        <loc>https://produtodigital.org/blog/windows-10-ou-windows-11-para-pcs-antigos/</loc>
+        <lastmod>2026-06-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Corrigir Tela Azul (BSOD) Após a Formatação do PC -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-corrigir-tela-azul-apos-formatacao/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Instalar Drivers Automaticamente no Windows: Métodos Seguros -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-instalar-drivers-automaticamente/</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Recuperar Arquivos Apagados Após a Formatação do Disco -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-recuperar-arquivos-apagados-apos-formatacao/</loc>
+        <lastmod>2026-06-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Preparar, Instalar e Configurar um SSD Novo no PC -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-preparar-um-ssd-novo/</loc>
+        <lastmod>2026-05-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Programas Obrigatórios Após Instalar o Windows 10 ou 11 -->
+    <url>
+        <loc>https://produtodigital.org/blog/programas-obrigatorios-apos-instalar-windows/</loc>
+        <lastmod>2026-05-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar uma Partição no HD ou SSD do Computador -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-particao-hd-ssd/</loc>
+        <lastmod>2026-05-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Habilitar o Secure Boot na BIOS do seu Computador -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-habilitar-secure-boot/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Limpar o Cache do Windows e Recuperar Espaço no Disco -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-limpar-cache-windows/</loc>
+        <lastmod>2026-05-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Melhores Antivírus Gratuitos de 2026: Segurança sem Lentidão -->
+    <url>
+        <loc>https://produtodigital.org/blog/melhores-antivirus-gratuitos-2026/</loc>
+        <lastmod>2026-05-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Entrar na BIOS de Qualquer Placa-Mãe ou Notebook -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-entrar-na-bios-placa-mae/</loc>
+        <lastmod>2026-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar um Canal Dark no YouTube em 2026: Guia Completo -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-canal-dark-2026/</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Os Nichos Dark Mais Lucrativos do YouTube em 2026 -->
+    <url>
+        <loc>https://produtodigital.org/blog/nichos-dark-mais-lucrativos/</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Monetizar Vídeos Curtos no TikTok, Shorts e Reels -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-monetizar-videos-curtos/</loc>
+        <lastmod>2026-05-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar Vídeos Virais Usando Inteligência Artificial em 2026 -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-videos-virais-ia/</loc>
+        <lastmod>2026-05-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: As Melhores Ferramentas para Criar e Gerenciar Canais Dark -->
+    <url>
+        <loc>https://produtodigital.org/blog/ferramentas-para-canais-dark/</loc>
+        <lastmod>2026-05-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Ganhar Dinheiro com o YouTube Shorts: Guia de Monetização -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-ganhar-dinheiro-com-youtube-shorts/</loc>
+        <lastmod>2026-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Canal Dark Sem Aparecer Funciona? Verdades e Mitos Revelados -->
+    <url>
+        <loc>https://produtodigital.org/blog/canal-dark-sem-aparecer-funciona/</loc>
+        <lastmod>2026-05-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar Narração com IA Super Realista e Humanizada -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-narracao-ia/</loc>
+        <lastmod>2026-05-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar Vídeos Automáticos em Lote para Redes Sociais -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-videos-automaticos/</loc>
+        <lastmod>2026-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Os Melhores Nichos para Criar Vídeos Virais em 2026 -->
+    <url>
+        <loc>https://produtodigital.org/blog/melhores-nichos-videos-virais/</loc>
+        <lastmod>2026-05-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Conseguir 1000 Inscritos no YouTube Rapidamente -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-conseguir-1000-inscritos-rapidamente/</loc>
+        <lastmod>2026-05-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Criar Thumbnails Profissionais Usando Inteligência Artificial -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-criar-thumbnails-ia/</loc>
+        <lastmod>2026-05-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Canal Dark ou Afiliado: Qual a Melhor Renda Extra em 2026? -->
+    <url>
+        <loc>https://produtodigital.org/blog/canal-dark-ou-afiliado/</loc>
+        <lastmod>2026-05-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Crescer um Canal Dark do Zero: Estratégias Práticas -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-crescer-canal-dark-do-zero/</loc>
+        <lastmod>2026-05-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Os Melhores Antivírus Gratuitos para Computadores e Notebooks -->
+    <url>
+        <loc>https://produtodigital.org/blog/melhores-antivirus-gratuitos-para-computadores/</loc>
+        <lastmod>2026-05-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Encontrar Vídeos Virais em Alta para Repostar e Engajar -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-encontrar-videos-virais/</loc>
+        <lastmod>2026-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Automatizar a Produção de Conteúdo de Canais de Vídeo com IA -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-automatizar-producao-conteudo/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Usar Inteligência Artificial para Criar Vídeos do Roteiro ao Clipe -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-usar-ia-para-criar-videos/</loc>
+        <lastmod>2026-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Quanto Ganha um Canal Dark no YouTube em AdSense e Vendas? -->
+    <url>
+        <loc>https://produtodigital.org/blog/quanto-ganha-canal-dark/</loc>
+        <lastmod>2026-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Os 5 Erros Fatais Que Matam o Alcance e a Monetização de Canais Dark -->
+    <url>
+        <loc>https://produtodigital.org/blog/erros-que-matam-canais-dark/</loc>
+        <lastmod>2026-05-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Estratégias de Monetização Rápida no YouTube sem Depender do AdSense -->
+    <url>
+        <loc>https://produtodigital.org/blog/estrategias-monetizacao-rapida/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Viralizar no TikTok em 2026: Truques do Novo Algoritmo -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-viralizar-no-tiktok-2026/</loc>
+        <lastmod>2026-05-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Direitos Autorais no YouTube: Guia Completo para Evitar Reivindicações -->
+    <url>
+        <loc>https://produtodigital.org/blog/direitos-autorais-youtube-guia/</loc>
+        <lastmod>2026-05-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Fazer um Roteiro Altamente Viciante para Vídeos do TikTok -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-fazer-roteiro-tiktok/</loc>
+        <lastmod>2026-05-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+        
+    <!-- Artigo: Como Monetizar Página no Facebook com Vídeos Curtos e Longos -->
+    <url>
+        <loc>https://produtodigital.org/blog/como-monetizar-pagina-facebook-videos/</loc>
+        <lastmod>2026-04-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
