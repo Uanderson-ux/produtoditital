@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <!-- META_SEO_PLACEHOLDER -->
+    <link rel="stylesheet" href="/blog/blog.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <a href="/" class="logo">Produto<span>Digital</span></a>
+        <ul class="nav-links">
+            <li><a href="/#home">Início</a></li>
+            <li><a href="/#products">Produtos</a></li>
+            <li><a href="/#contact">Contato</a></li>
+            <li><a href="/blog/" class="active">Blog</a></li>
+        </ul>
+    </nav>
+
+    <!-- Breadcrumbs -->
+    <div class="breadcrumbs-container">
+        <div class="breadcrumbs">
+            <a href="/">Início</a>
+            <span class="separator">&gt;</span>
+            <span class="current">Blog</span>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <main class="main-container">
+        <!-- Page Header -->
+        <header class="blog-header">
+            <h1>Artigos & <span>Tutoriais</span></h1>
+            <p>Aprenda técnicas de formatação, dicas de Windows/Office, inteligência artificial, marketing digital e canais dark para escalar sua renda online.</p>
+        </header>
+
+        <!-- Search & Filters Section -->
+        <section class="search-filter-section">
+            <div class="search-wrapper">
+                <span class="search-icon">&#128269;</span>
+                <input type="text" id="searchInput" class="search-input" placeholder="Pesquisar artigos por título, conteúdo ou tags...">
+            </div>
+            
+            <div class="categories-container">
+                <button class="category-pill active" data-category="all">Todos</button>
+                <button class="category-pill" data-category="Informática">Informática</button>
+                <button class="category-pill" data-category="Formatação">Formatação</button>
+                <button class="category-pill" data-category="Windows">Windows</button>
+                <button class="category-pill" data-category="Office">Office</button>
+                <button class="category-pill" data-category="Ferramentas Digitais">Ferramentas Digitais</button>
+                <button class="category-pill" data-category="Inteligência Artificial">Inteligência Artificial</button>
+                <button class="category-pill" data-category="Marketing Digital">Marketing Digital</button>
+                <button class="category-pill" data-category="Canais Dark">Canais Dark</button>
+            </div>
+        </section>
+
+        <!-- Blog Layout (Articles + Sidebar) -->
+        <div class="blog-layout">
+            <!-- Left: Articles Grid -->
+            <section class="articles-area">
+                <div class="articles-grid" id="articlesGrid">
+                    <!-- ARTICLES_GRID_PLACEHOLDER -->
+                </div>
+                
+                <!-- Pagination -->
+                <div class="pagination" id="pagination">
+                    <!-- PAGINATION_PLACEHOLDER -->
+                </div>
+            </section>
+
+            <!-- Right: Sidebar -->
+            <aside class="sidebar">
+                <!-- Recent Posts Widget -->
+                <div class="sidebar-widget">
+                    <h3 class="widget-title">Mais Recentes</h3>
+                    <div class="recent-posts-list">
+                        <!-- RECENT_ARTICLES_PLACEHOLDER -->
+                    </div>
+                </div>
+
+                <!-- CTA Widget (Sidebar conversion) -->
+                <div class="sidebar-widget" style="background: linear-gradient(135deg, rgba(138, 43, 226, 0.1) 0%, rgba(0, 229, 255, 0.05) 100%); border-color: rgba(138, 43, 226, 0.2);">
+                    <h3 class="widget-title" style="border-left-color: var(--primary-color);">Turbine seu Setup</h3>
+                    <p style="font-size: 0.95rem; color: var(--text-muted); margin-bottom: 1.2rem;">
+                        Conheça o nosso Kit Técnico Automático e instale dezenas de softwares pós formatação em minutos.
+                    </p>
+                    <a href="https://kiwify.app/vaafQyj" target="_blank" class="read-more-btn" style="color: var(--primary-color);">
+                        Conhecer Agora <span>&rarr;</span>
+                    </a>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer id="contact">
+        <div class="footer-content">
+            <h2>Pronto para começar?</h2>
+            <p>Explore nossos artigos e conheça nossos produtos digitais de alta qualidade.</p>
+            <a href="mailto:suporte@exemplo.com" class="btn-secondary">Falar com Suporte</a>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2026 ProdutoDigital. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Injected data for client-side search/filter -->
+    <script>
+        window.blogArticles = __ARTICLES_JSON_PLACEHOLDER__;
+    </script>
+    <script src="/blog/blog.js" defer></script>
+</body>
+</html>
